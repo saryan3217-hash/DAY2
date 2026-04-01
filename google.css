@@ -1,0 +1,54 @@
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 90%;
+}
+.food{
+    
+    text-align: center;
+    font-size: small  ;
+    color: brown
+    
+    
+}
+
+input{
+     margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-width: 40%;
+    width: 40%;
+    line-height:  24px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 8%;
+    
+    
+    }
+
+.nav-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    margin-left: 4px;
+ margin-bottom: 10px;
+    border-radius: 10px;
+     border: 2px solid #dfe1e5;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+   
+}
+
+
+
+
+ 
