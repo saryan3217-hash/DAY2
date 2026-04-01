@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    }
+.title{
+    font-style: italic;
+    text-align: center;
+    font-family: Impact; 
+   
+}
+.main{
+    text-align: center;
+   
+}
+.list{
+    
+    margin-left: 25%;
+   
+}
+img {
+    width: 50%;
+}
+.para{
+    margin-left: 25%;
+     font-family:arial;
+
+}
+
+input{ 
+    border: double;
+    border-block-color: gold;
+    border-width: thick
+    
+}
